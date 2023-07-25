@@ -1,1 +1,1 @@
-# SeleniumFramework_WithJava
+Automated Opencard website with Selenium Framework using Java
