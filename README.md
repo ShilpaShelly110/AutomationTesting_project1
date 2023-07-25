@@ -1,1 +1,1 @@
-Automated Opencard website with Selenium Framework using Java
+Automated Opencart website with Selenium Framework using Java
